@@ -5,4 +5,4 @@ Computer vision project designed to identify the ball/puck and players in a live
 
 ## How to Run and Alter Project
 
-# Sample Images
+## Sample Images
